@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+}
+.container {
+    padding: 1rem 3rem;
+}
+.header {
+    color: #FFFFFF;
+    background-color: rgb(8, 61, 119);
+    padding: 3rem;
+    border-bottom: .25rem solid #90DDF0;
+}
+
+.p-margin {
+    margin: .5rem 0;
+}
+.adopt {
+    margin: 1rem 0;
+}
+.dog-name {
+    font-family: "Oswald", sans-serif;
+}
+.footer {
+    font-family: "Oswald", sans-serif;
+    color: #FFFFFF;
+}
+.donate {
+    background-image: url(../starter_files/images/donate.jpg);
+
+}
+.volunteer {
+    background-image: url(../starter_files/images/volunteer.jpg);
+}
+
+.location {
+    background-image: url(../starter_files/images/location.png)
+
+}
