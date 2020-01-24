@@ -10,9 +10,11 @@ body {
 img {
     max-width: 100%;
 }
+
 .container {
     padding: 1rem 3rem;
 }
+
 .header {
     color: #FFFFFF;
     background-color: rgb(8, 61, 119);
@@ -32,13 +34,14 @@ img {
     display: flex;
     flex-wrap: wrap;
 }
+
 .dog-name {
     font-family: "Oswald", sans-serif;
     font-size: 1.5rem;
 }
 
 .dog-box {
-    width: 400px;
+    width: 450px;
     margin: 10px 10px 10px 0;
 }
 
@@ -46,16 +49,17 @@ img {
     background-color: #90DDF0;
     list-style: none;
     display: inline-flex;
+    font-size: .9rem;
     padding: 5px 10px;
     margin: 5px 5px 5px 0;
     border-radius: 15px;
 }
+
 .footer {
     font-family: "Oswald", sans-serif;
     color: #FFFFFF;
     display: flex;
     flex-wrap:  wrap;
-
 }
 
 .footer a {
@@ -63,7 +67,6 @@ img {
     color: #ffffff;
     text-decoration: none;
     background-repeat: no-repeat;
-    
 }
 
 
@@ -80,8 +83,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
 }
 
 .volunteer {
@@ -96,8 +97,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
 }
 
 .location {
@@ -113,6 +112,4 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
 }
